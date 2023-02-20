@@ -84,7 +84,7 @@ int main(int argc, char **argv) {
   return RUN_ALL_TESTS();
 }
 ```
-- ### If you are using any editors like Visual Studio or QT you can compile and see the test results, but for this example I use commands:
+- ### In the bottom there is a example for code editor build results. If you are using any editors like Visual Studio or QT you can compile and see the test results, but for this example I use commands:
 ```
 cmake -S . -B build
 ```
@@ -107,6 +107,12 @@ cd build && ctest
 
 - ### Building in QT creator:
 ![image](https://user-images.githubusercontent.com/62032779/220103690-0efe69c3-b80e-4801-91da-463c8001a9bb.png)
+
+<br>
+
+## Source(s):
+- [googletest/quickstart](http://google.github.io/googletest/quickstart-cmake.html)
+- [googletest/primer](http://google.github.io/googletest/primer.html)
 
 
 
