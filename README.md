@@ -1,7 +1,7 @@
-# Google Test Tutorial
-Google Test Tutorial for beginners with cmake.
+# Google Test Tutorial with CMake
+## *If you find Google's explanation complicated you can follow this example. I tried to explain very simply.*
 
-- ### Start with a making project folder and then create CMakeLists.txt and main.cpp. For this example I have a folder named Testing and I created that 2 files (CMakeList.txt and main.cpp).
+>   ### Start with a making project folder and then create CMakeLists.txt and main.cpp. For this example I have a folder named Testing and I created that 2 files (CMakeList.txt and main.cpp).
 
 ```
 touch CMakeLists.txt
